@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Random change
+          Random change 2
         </a>
       </header>
     </div>
