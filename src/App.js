@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Random change 2
+          Learn React
         </a>
       </header>
     </div>
